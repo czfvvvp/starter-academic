@@ -19,21 +19,40 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
   title = "The University of Sheffield"
-  company = "MSc Nanomaterials and Materials Science
+  company = "MSc in Nanomaterials and Materials Science
   location = "Sheffield"
-  date_start = "2020-09"
+  date_start = "2020-09-28"
   date_end = ""
   description = """
   
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  title = "Shanghai University of Engineering Science"
+  company = "MSc in material processing engineering"
+  location = "Shanghai"
+  date_start = "2017-09-01"
+  date_end = "2020-06-30"
+  description = """
+  ﹒ GPA: 3.3(Top 5% of the grade)
+  ﹒ Related courses: Fundamentals of Materials Science
+                      Material Fracture Theory
+                      Welding Numerical Simulation
+                      Finite Element Method
+                      Material Surface Engineering Technology
+                      """
 
+[[experience]]
+  title = "Tianjin Chengjian University"
+  company = "BSc in Inorganic Nomental Material Engineering"
+  location = "Tianjin"
+  date_start = "2013-09-01"
+  date_end = "2017-06-30"
+  description = """
+  ﹒ GPA: 2.9(Top 10% of the grade)
+  ﹒ Related courses: Fundamentals of Materials Science
+                      Physical Chemistry
+                      Physical Properties of Inorganic Material
+                      Cement Based Composite Material
+                      """
 +++
